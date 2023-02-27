@@ -24,7 +24,7 @@ public class PalindromSayılar {
     }
     public static void main(String[] args) {
         // TODO code application logic here
-        System.err.println(isPalindrom(0));
+        System.err.println(isPalindrom(121));
     }
     
 }
